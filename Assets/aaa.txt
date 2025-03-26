@@ -1,0 +1,33 @@
+<html>
+<head>
+<style>
+body{
+     backround-image:url("image/img4.png");
+     background color:#cccccc;
+     background size:1400px;
+}
+ .button
+  ba
+<table  width="100%" height="10%" bgcolor=#36454F>
+<td align="right"><font color="white"><a href="Home"><font color="red">Home</a>
+<tr><td width="50%"  align="left"><font color="red">Become a donar
+<td align="right"><font color="white"><a href="About.php"><font color="red">About</a>
+<td  align="right"><font color="white"><a href="why_donate_blood.php"><font color="red">Why donate blood
+<td align="right"><font color="white"><a href="become_a_donar.php"><font color="red">Become a donar
+<td align="right"><font color="white"><a href="need_blood.php"><font color="red">Need blood 
+<td align="right"><font color="white"><a href="contact_us.php"><font color="red">Contact us
+<td align="right"><font color="white"><a href="admin.php"><font color="red">Admin</tr>                                                                                        </tr>
+</table>
+ <body bgcolor="#7393B3">
+
+<form method="post" action="#"><br><br><br><br><br><h1 align="center">Admin login</h1>
+ <table bgcolor="#ADD8E6" align="center" width="23%" height="40%">
+<tr>
+ <td>
+    Username:
+   <input type="text" name="t1"><br><br>
+   password:
+    <input type="password" name="t2"><br><br>
+    <input type="submit" value="login">
+  </td>
+</tr>

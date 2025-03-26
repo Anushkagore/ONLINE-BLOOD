@@ -1,0 +1,21 @@
+create table blood_donate(name char(20),
+mobile char(10),
+email char(20),
+gender char(10),
+blood_group char(10),
+addr char(20));
+
+
+----------------------------------------------------------------------------------------------------
+
+create table contact_us(name varchar(20),
+phone int,
+email varchar(20),
+msg varchar(20));
+
+---------------------------------------------------------------------------------------------------
+
+create table need_blood(blood_group varchar(10),
+reason char(100));
+
+--------------------------------------------------------------------------------------------------
